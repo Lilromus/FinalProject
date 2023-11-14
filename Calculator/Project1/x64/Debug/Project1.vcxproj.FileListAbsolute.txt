@@ -1,0 +1,3 @@
+C:\Users\roman\Documents\GitHub\FinalProject\FinalProjectCS50\Calculator\Project1\x64\Debug\Project1.vcxproj.AssemblyReference.cache
+C:\Users\roman\Documents\GitHub\FinalProject\FinalProjectCS50\Calculator\Project1\x64\Debug\Project1.MyForm.resources
+C:\Users\roman\Documents\GitHub\FinalProject\FinalProjectCS50\Calculator\Project1\x64\Debug\Project1.vcxproj.GenerateResource.cache
