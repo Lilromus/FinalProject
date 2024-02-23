@@ -1,2 +1,2 @@
-# FinalProjectCS50
+# FinalProject
 C++ Calculator with .NET Framework 
